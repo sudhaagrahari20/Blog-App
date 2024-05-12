@@ -1,4 +1,4 @@
-Blog-App:-
+BLOG APP :-
 This is a web application that allows users to create and manage their own blogs. It provides a user-friendly interface for creating and editing posts, managing comments, and controlling user access based on two roles: ROLE_ADMIN and ROLE_USER.
 
 Features:-
