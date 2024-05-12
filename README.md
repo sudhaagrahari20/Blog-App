@@ -1,24 +1,27 @@
 # BLOG APP 
-This is a web application that allows users to create and manage their own blogs. It provides a user-friendly interface for creating and editing posts, managing comments, and controlling user access based on two roles: ROLE_ADMIN and ROLE_USER.
+This is a web application that allows users to create and manage their own blogs. It provides a user-friendly interface for creating and editing posts, managing comments, and controlling user access based on two roles:
+ROLE_ADMIN and ROLE_USER.
 
 # Features:-
-User registration and authentication using JWT authentication
-Two user roles: ROLE_ADMIN and ROLE_USER
-Users can create and update their own posts
-Users can comment on posts
-Users can delete their own posts and comments
-Admins can delete any posts and comments
-Input validation using Bean Validator
-Mapping between DTO and Entity objects using ModelMapper API
-Database storage using MySQL
-Build automation using Maven
-Lombok for reducing boilerplate code
+1- User registration and authentication using JWT authentication 
+2- Two user roles: ROLE_ADMIN and ROLE_USER
+3- Users can create and update their own posts
+4- Users can comment on posts
+5- Users can delete their own posts and comments
+6- Admins can delete any posts and comments
+7- Input validation using Bean Validator
+8- Mapping between DTO and Entity objects using ModelMapper API
+9 -Database storage using MySQL
+10- Build automation using Maven
+11- Lombok for reducing boilerplate code
 
 
 # Requirements
-Java 17 or higher
-MySQL
-Postman
+Java 17 or higher,
+MySQL,
+Postman,
+Lombok,
+Maven (Optional)
 
 # Installation
 Create a MySQL database named blogdb.
