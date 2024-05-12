@@ -3,8 +3,8 @@ This is a web application that allows users to create and manage their own blogs
 ROLE_ADMIN and ROLE_USER.
 
 # Features:-
-1- User registration and authentication using JWT authentication 
-2- Two user roles: ROLE_ADMIN and ROLE_USER
+. User registration and authentication using JWT authentication                                                                                                              
+- Two user roles: ROLE_ADMIN and ROLE_USER
 3- Users can create and update their own posts
 4- Users can comment on posts
 5- Users can delete their own posts and comments
